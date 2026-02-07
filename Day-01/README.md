@@ -1,7 +1,9 @@
 <div align="center">
 📅 Day 01 — Java Introduction & JVM Internals
 Building the Foundation for Java Interviews
+  
 <img src="https://img.shields.io/badge/Day-01-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Difficulty-Easy-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Core%20Java-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" /> </div>
+
 
 🔗 Quick Navigation
 
@@ -25,7 +27,7 @@ Building the Foundation for Java Interviews
 
 ---
 
-🎯 Goal of the Day
+<h3>🎯 Goal of the Day</h3>
 
 The goal of Day 01 is to build a strong mental model of Java before jumping into syntax or coding.
 
@@ -41,7 +43,9 @@ How Java code actually runs behind the scenes
 
 📌 This day removes confusion that causes many candidates to fail basic interview questions.
 
-🧠 Concepts Introduced
+---
+<h3>🧠 Concepts Introduced</h3>
+
 Java Fundamentals
 
 What Java is and where it is used
@@ -92,7 +96,9 @@ Capgemini, Accenture
 
 Amazon, Flipkart (as warm-up questions)
 
-📁 Folder Structure<br>
+---
+
+<h3>📁 Folder Structure<br></h3>
 Day-01-Java-Introduction/<br>
 │<br>
 ├── README.md # High-level overview & interview focus<br>
@@ -101,7 +107,9 @@ Day-01-Java-Introduction/<br>
 📌 README = roadmap
 📌 notes.md = recipe
 
-🧩 How Java Code Executes
+---
+
+<h3>🧩 How Java Code Executes</h3>
 
 A simplified view of what happens when you run Java code:
 
@@ -117,7 +125,8 @@ This execution model is the reason Java is platform-independent.
 
 📌 Execution flow with JVM internals is explained step-by-step in notes.md.
 
-📝 Notes & Learning Approach
+---
+<h3>📝 Notes & Learning Approach</h3>
 
 For Day 01, the focus is on:
 
@@ -129,7 +138,9 @@ Beginner friendly → MNC acceptable depth
 
 👉 If you can explain Day 01 confidently, your Java base is solid.
 
-💡 Key Takeaways
+---
+
+<h3>💡 Key Takeaways</h3>
 
 Java is more than just a programming language
 
@@ -139,7 +150,9 @@ Platform independence is not magic — it’s design
 
 Strong fundamentals reduce fear in interviews
 
-🎯 Interview Preparation (Day 01 Level)
+---
+
+<h3>🎯 Interview Preparation (Day 01 Level)</h3>
 
 Q1. What is Java?
 Java is an object-oriented, platform-independent programming language used to build scalable applications.
@@ -163,7 +176,9 @@ Because Java code is compiled into bytecode which can run on any system having a
 
 🔗 https://www.geeksforgeeks.org/java/
 
-⏭️ What’s Next?
+---
+
+<h3>⏭️ What’s Next?</h3>
 
 <div align="center">
 👉 Day 02 — Data Types & Variables
