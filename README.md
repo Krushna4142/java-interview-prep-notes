@@ -1,8 +1,4 @@
 <div align="center">
-  <br />
-    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=80" alt="Java Interview Prep Banner">
-  <br />
-
   <div>
     <img src="https://img.shields.io/badge/Java-Interview_Prep-orange?style=for-the-badge&logo=java" />
     <img src="https://img.shields.io/badge/Core_Fundamentals-Strong-blue?style=for-the-badge" />
@@ -14,7 +10,10 @@
 
   <p align="center">
     Clear concepts, structured revision, and interview-ready Java understanding.
-  </p>
+  </p><br />
+    <img src="./assets/image_for_readme.png" alt="Java Interview Prep Banner" >
+
+  <br />
 </div>
 
 ---
@@ -42,38 +41,39 @@ Interview preparation often fails because learning is **unstructured and rushed*
 **`java-interview-prep-notes`** exists to provide **clear, organized, and concept-focused Java interview notes**, built through consistent learning and real problem-solving.
 
 This repository is for:
-- Computer engineering students  
-- Java and backend-focused developers  
-- Candidates preparing for technical interviews  
+
+- Computer engineering students
+- Java and backend-focused developers
+- Candidates preparing for technical interviews
 
 ---
 
 ## 🎯 Goals & Outcomes
 
-- Master Java fundamentals and core concepts  
-- Understand interview questions, not memorize answers  
-- Build structured revision material  
-- Improve technical explanation skills  
-- Prepare confidently for Java interviews  
+- Master Java fundamentals and core concepts
+- Understand interview questions, not memorize answers
+- Build structured revision material
+- Improve technical explanation skills
+- Prepare confidently for Java interviews
 
 ---
 
 ## 🗂️ Repository Structure
 
-```text
-java-interview-prep-notes/
-├── 01-java-fundamentals/
-├── 02-oops-concepts/
-├── 03-collections-framework/
-├── 04-exception-handling/
-├── 05-multithreading/
-├── 06-dsa-interview-notes/
-├── 07-system-design-basics/
-├── 08-interview-experiences/
-└── README.md
+java-interview-prep-notes/<br>
+├── 01-java-fundamentals/<br>
+├── 02-oops-concepts/<br>
+├── 03-collections-framework/<br>
+├── 04-exception-handling/<br>
+├── 05-multithreading/<br>
+├── 06-dsa-interview-notes/<br>
+├── 07-system-design-basics/<br>
+├── 08-interview-experiences/<br>
+└── README.md<br>
 Organized for fast revision and deep understanding.
 
-🧭 Engineering Journey Fit
+## 🧭 Engineering Journey Fit
+
 This repository is part of a disciplined roadmap including:
 
 100 days of Java fundamentals
@@ -88,7 +88,8 @@ System design fundamentals
 
 It serves as the central interview preparation layer.
 
-⭐ What Makes This Different
+## ⭐ What Makes This Different
+
 Concept-driven explanations, not shortcuts
 
 Written in interview-expected language
@@ -99,7 +100,8 @@ Built gradually through daily learning
 
 Designed as a long-term reference
 
-🛠️ How to Use This Repository
+## 🛠️ How to Use This Repository
+
 Start with Java fundamentals
 
 Read actively and take notes
@@ -110,12 +112,14 @@ Connect notes with coding practice
 
 Use for regular interview revision
 
-🔁 Learning Philosophy
+## 🔁 Learning Philosophy
+
 Strong interviews come from strong fundamentals.
 
 Consistency matters more than speed.
 
-💼 Interview Relevance
+## 💼 Interview Relevance
+
 Covers core Java interview topics
 
 Strengthens backend technical rounds
@@ -124,7 +128,8 @@ Improves clarity in explanations
 
 Supports real interview discussions
 
-🛣️ Future Roadmap
+## 🛣️ Future Roadmap
+
 Advanced JVM concepts
 
 Java performance basics
@@ -135,11 +140,13 @@ Design pattern explanations
 
 Quick revision checklists
 
-🤝 Contributions
+## 🤝 Contributions
+
 Feedback and improvements are welcome.
 Fork, revise, and grow with consistency.
 
-🚀 Closing Note
+## 🚀 Closing Note
+
 Interviews test thinking, clarity, and fundamentals.
 
 This repository is built to strengthen all three —
